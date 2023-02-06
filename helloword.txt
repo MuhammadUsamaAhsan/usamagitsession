@@ -1,0 +1,16 @@
+Version contol Systme
+
+
+int main {
+
+cout <<"hello world";
+for(int i =0;i<size;i++){
+
+}
+
+}
+
+
+git commit "printed hello world"
+
+
